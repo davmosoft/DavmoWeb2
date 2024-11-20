@@ -1,0 +1,25 @@
+{
+  "blogData": [
+    {
+      "title": "Digital art and its trending forms on the market",
+      "slug": "digital-art-and-its-trending-forms-on-the-market",
+      "section": "ART",
+      "date": "2021-01-01",
+      "mainImg": "https://picsum.photos/500"
+    },
+    {
+      "title": "Záplavy v Česku: Jak se na ně připravit a co dělat po nich",
+      "slug": "zaplavy-v-cesku-jak-se-na-ne-pripravit-a-co-delat-po-nich",
+      "section": "TIPY",
+      "date": "2021-01-01",
+      "mainImg": "https://picsum.photos/500"
+    },
+    {
+      "title": "5 nejlepších aplikací pro vytváření digitálního umění",
+      "slug": "5-nejlepsich-aplikaci-pro-vytvareni-digitalniho-umeni",
+      "section": "TIPY",
+      "date": "2021-01-01",
+      "mainImg": "https://picsum.photos/500"
+    }
+  ]
+}

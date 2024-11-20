@@ -1,0 +1,12 @@
+{
+  "navLinks": [
+    {
+      "to": "index",
+      "name": "Úvod"
+    },
+    {
+      "to": "blog",
+      "name": "Blog"
+    }
+  ]
+}
